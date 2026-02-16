@@ -178,3 +178,8 @@ Release date: March 2th, 2022
 [June 2025 Challenge](challenge-2025.10-jun/challenge-2025.10-jun.ipynb): An Investigation into the Causes and Mitigation of Barren Plateaus in Variational Quantum Algorithms
 
 ---
+
+
+[February 2026 Challenge](challenge-2026.02-feb/challenge-2026.02-feb.ipynb): Peaked Quantum Circuits: Exploring Verifiable Quantum Advantage
+
+---
